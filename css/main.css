@@ -48,8 +48,9 @@ h1{
 p{
 	width:90%;
 	min-height: 150px;
-	margin-top: 40px;
+	margin: 40px 0 0;
 	font-family: Helvetica;
+	padding: 10px;
 	color: white; 
 }
 
