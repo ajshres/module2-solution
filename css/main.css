@@ -6,7 +6,7 @@
 section {
 	width: 100%;
 	float: left;
-	height: 150px;
+	height: 200px;
 	padding: 0 15px 15px;
 	border:1px solid black;
 	position: relative;
@@ -47,7 +47,6 @@ h1{
 
 p{
 	width:90%;
-	min-height: 150px;
 	margin: 40px 0 0;
 	font-family: Helvetica;
 	padding: 10px;
